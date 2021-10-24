@@ -1,0 +1,51 @@
+3
+4
+3
+Audi A3
+552
+55
+145
+P
+Ford Fiesta Hatchback 2017
+600
+43
+145
+D
+Vauxhall Corsa Mk5 3-door 2006
+482
+45
+210
+P
+Tesla Model S
+379
+100
+BMW i3 60Ah BEV
+81
+18.8
+BMW i3 94Ah BEV
+114
+27.2
+BMW i3 120Ah BEV
+153
+42.2
+Toyota Prius
+750
+43
+9
+P
+39
+711
+BMW i3 60Ah REx
+150
+9
+18.8
+P
+72
+78
+BMW i3 94Ah REx
+180
+9
+27.2
+P
+97
+83
